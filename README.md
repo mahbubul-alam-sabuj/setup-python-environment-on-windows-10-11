@@ -23,4 +23,30 @@ https://www.python.org/downloads/windows/
 
 <img src="./screenshots/4.png"/>
 
+<br />
+
+## Install Necessary Libraries (🐼 Pandas, 🖩 Numpy, 🪞 MatPlotLib):
+**Open command prompt(use ```Windows Key + x``` or press on ```Windows key``` then search ```command prompt```) and copy paste the following commands one by one.**
+```bash
+pip install pandas
+```
+<br />
+<img src="./screenshots/5.png"/>
+
+```bash
+pip install numpy
+```
+<br />
+<img src="./screenshots/6.png"/>
+
+
+
+```bash
+pip install matplotlib
+```
+
+<br />
+<img src="./screenshots/7.png"/>
+
+
 
