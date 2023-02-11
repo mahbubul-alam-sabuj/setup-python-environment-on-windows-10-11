@@ -12,4 +12,15 @@ https://www.python.org/downloads/windows/
 **Double click on the downloaded python installer and check ```Add python.exe to PATH``` and click on ```Install Now```.** <br />
 <img src="./screenshots/2.png"/>
 
+**Click on ```Disable path length limit``` then close.** <br />
+
+<img src="./screenshots/3.png"/>
+
+> **Info**
+> Disabling the path length limit means we can use more than 260 characters in a file path.
+
+<br />
+
+<img src="./screenshots/4.png"/>
+
 
