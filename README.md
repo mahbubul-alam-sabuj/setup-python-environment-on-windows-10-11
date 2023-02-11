@@ -9,7 +9,7 @@ https://www.python.org/downloads/windows/
 > **Note**
 > Depending on your system, download the appropriate version. If you are running a 64bit system then download the 64bit version.
 
-**Double click on the downloaded python installer and check ```Add python.exe to PATH``` and click on ```Install Now```.**
+**Double click on the downloaded python installer and check ```Add python.exe to PATH``` and click on ```Install Now```.** <br />
 <img src="./screenshots/2.png"/>
 
 
