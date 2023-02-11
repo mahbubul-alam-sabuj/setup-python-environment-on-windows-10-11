@@ -16,7 +16,7 @@ https://www.python.org/downloads/windows/
 
 <img src="./screenshots/3.png"/>
 
-> **Info**
+> **Note**
 > Disabling the path length limit means we can use more than 260 characters in a file path.
 
 <br />
